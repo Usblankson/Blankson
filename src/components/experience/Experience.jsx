@@ -49,7 +49,7 @@ function Experience() {
                   <article className='experience__details'>
                       <FaReact/> 
                       <div>
-                        <h4>FReact</h4>
+                        <h4>React</h4>
                       <small className="text-light">Experienced</small>
                       </div>
                       
