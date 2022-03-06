@@ -63,7 +63,7 @@ function Experience() {
               <article className='experience__details'>
                       <FaNodeJs/> 
                       <div>
-                        <h4>NOde Js</h4>
+                        <h4>Node Js</h4>
                       <small className="text-light">Intermediate</small>
                       </div>
                       

@@ -34,10 +34,10 @@ function About() {
                 </article>
               </div>
 
-              <p>A result-oriented software developer and computer scientist 
-                with a passion for automating businesses and
-                organizations with tech-powered solutions.
-              </p>
+              <p>A full-stack developer.
+                 Specializing in building exceptional and trending web and mobile applications. &nbsp; Feel free to take a look at my latest projects. &nbsp; Remotely available.
+                 <br /> <br /> projects@blankson.dev &nbsp;  Tel: +2349025474544</p>
+
 
                  <a href="#contact" className='btn btn-primary'>Let's Talk</a>
           </div>
